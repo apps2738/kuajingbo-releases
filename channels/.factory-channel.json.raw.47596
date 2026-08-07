@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "channel": "factory",
+  "sequence": 1,
+  "product_version": "v1.0.10",
+  "commit": "2c284e95fe3e8bead47b173b33f4d976547bd8f3",
+  "job_id": "factory-v1.0.10-56b86cfa8180a7b8",
+  "job_url": "https://github.com/apps2738/kuajingbo-releases/releases/download/factory-v1.0.10/factory-job.json",
+  "job_sha256": "ed8a7b07323ec36d838f5eab83f10e431d48dbee5e34037656175da8caf1302f",
+  "job_signature_url": "https://github.com/apps2738/kuajingbo-releases/releases/download/factory-v1.0.10/factory-job.json.sig"
+}
